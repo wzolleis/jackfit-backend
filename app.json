@@ -2,5 +2,6 @@
   "name": "Start on Heroku: TypeScript",
   "description": "A barebones TypeScript app using Express 4",
   "repository": "https://github.com/heroku/typescript-getting-started",
-  "keywords": ["node", "typescript", "express", "heroku"]
+  "keywords": ["node", "typescript", "express", "heroku"],
+  "stack": "heroku-22"
 }
